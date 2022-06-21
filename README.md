@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Android Development 
 
-- 👯 I’m looking to collaborate on ...
+
 - 🤔 I’m looking for help with my dsa learing journey 
 
 - 📫 How to reach me: linkedln - https://www.linkedin.com/feed/
