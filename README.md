@@ -12,7 +12,7 @@
 - 🤔 I’m looking for help with my DSA learing journey 
 
 
-- 📫 How to reach me: linkedln - https://www.linkedin.com/feed/
+- 📫 How to reach me: linkedln - https://www.linkedin.com/in/anjaneya-tiwari-2b8769238/
 
 
 - ⚡ Fun fact: Until 2010, carrier pigeons were faster than the internet.
