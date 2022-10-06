@@ -6,7 +6,7 @@
 - 🔭 I’m currently studing in srm institute  of sciene and technology , Delhi Ncr
 
 
-- 🌱 I’m currently learning s
+- 🌱 I’m currently learning shell scripting
 
 
 - 🤔 I’m looking for help with my DSA learing journey 
